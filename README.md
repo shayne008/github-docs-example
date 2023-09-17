@@ -135,7 +135,7 @@ You can use the example markdown to create tables. [<sup>[2]</sup>](#references)
 | Face in Clouds | `face_in_clouds:` | 😶‍🌫️: |
 ```
 
-[Secret Window Hidden Garden](secret-window/hidden-garden.md)
+[Secrets Past](secrets/past.md)
 
 ## References
 
